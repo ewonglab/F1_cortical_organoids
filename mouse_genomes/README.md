@@ -10,5 +10,7 @@ Strain-specific variant call files were downloaded from the Mouse Genome Project
 
     
 We used C57BL/6J mouse genome (GRCm38, release 68) as a reference genome. 
+
 Downloaded from - https://ftp.ensembl.org/pub/release-68/fasta/mus_musculus/dna/Mus_musculus.GRCm38.68.dna.toplevel.fa.gz 
+
 Genome annotation - https://ftp.ensembl.org/pub/release-102/gtf/mus_musculus/Mus_musculus.GRCm38.102.gtf.gz
