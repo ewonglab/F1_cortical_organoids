@@ -1,0 +1,17 @@
+strain,assay,sample
+CAST,bulk_RNA_EpiSCs,CastB6_C1
+CAST,bulk_RNA_EpiSCs,CastB6_C3
+CAST,bulk_RNA_EpiSCs,CastB6_C5
+CAST,bulk_RNA_EpiSCs,CastB6_C6
+MOLF,bulk_RNA_EpiSCs,MolfB6_M1
+MOLF,bulk_RNA_EpiSCs,MolfB6_M2
+MOLF,bulk_RNA_EpiSCs,MolfB6_M3
+MOLF,bulk_RNA_EpiSCs,MolfB6_M6
+PWK,bulk_RNA_EpiSCs,PwkB6_P1
+PWK,bulk_RNA_EpiSCs,PwkB6_P3
+PWK,bulk_RNA_EpiSCs,PwkB6_P5
+PWK,bulk_RNA_EpiSCs,PwkB6_P6
+SPRET,bulk_RNA_EpiSCs,SpretB6_S1
+SPRET,bulk_RNA_EpiSCs,SpretB6_S3
+SPRET,bulk_RNA_EpiSCs,SpretB6_S5
+SPRET,bulk_RNA_EpiSCs,SpretB6_S6
